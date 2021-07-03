@@ -13,10 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project5-aws-and-spring-boot</name>
 	<description>Demo project for Spring Boot</description>
-	<properties>
-		<java.version>11</java.version>
-		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
-	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
